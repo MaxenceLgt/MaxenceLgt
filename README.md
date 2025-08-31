@@ -7,7 +7,7 @@
 ---
 
 ## [🍀] Tech Stack [🍀]
-![My Language Skills](https://skillicons.dev/icons?i=c,cpp,java,nestjs,py)  
+![My Language Skills](https://skillicons.dev/icons?i=c,cpp,go,java,nestjs,py)  
 ![My Devops Skills](https://skillicons.dev/icons?i=docker,ansible,github,azure,jenkins,nginx,githubactions)  
 ![My Bdd skills](https://skillicons.dev/icons?i=postgres,mongo,mysql)  
 ![My organisation skills](https://skillicons.dev/icons?i=notion,postman,bash,md)
