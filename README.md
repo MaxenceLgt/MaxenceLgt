@@ -7,19 +7,11 @@
 
 ## [🍀] Tech Stack [🍀]
 **Language I'm using:**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,c,cpp,py" />
-</p>
-
+![Main](https://skillicons.dev/icons?i=go,c,cpp,py)  
 **DevOps tools I know:**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,ansible,github" />
-</p>
-
+![OPS](https://skillicons.dev/icons?i=docker,ansible,github)  
 **Extra tools:**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,postman,bash,md" />
-</p>
+![Tools](https://skillicons.dev/icons?i=notion,postman,bash,md)
 
 ## [🌵] Me In A Nutshell [🌵]
 
