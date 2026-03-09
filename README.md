@@ -13,12 +13,14 @@
 </p>
 
 ---
+
 **DevOps tools I know:**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,ansible,github" /><br/><br/>
 </p>
 
 ----
+
 **Extra Tools:**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=notion,postman,bash,md" /><br/><br/>
