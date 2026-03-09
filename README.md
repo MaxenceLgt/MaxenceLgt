@@ -4,26 +4,21 @@
 **[🐋​] DevOps / Backend / Cloud enjoyer**  
 **[🗿] Volley-ball fan & Gym rat**  
 
----
 
 ## [🍀] Tech Stack [🍀]
 **Language I'm using:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,c,cpp,py" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=go,c,cpp,py" />
 </p>
-
----
 
 **DevOps tools I know:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,ansible,github" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,ansible,github" />
 </p>
 
-----
-
-**Extra Tools:**  
+**Extra tools:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,postman,bash,md" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=notion,postman,bash,md" />
 </p>
 
 ## [🌵] Me In A Nutshell [🌵]
